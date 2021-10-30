@@ -1,9 +1,9 @@
 Web Scrapping
 
 
-                           Why ?
+         Why ?
          You need to fetch some information from the website. To do so , copy and pste the data displayed by the website which is a very tedious job that make many hours or sometimes days to complete.. 
-                           What ?
+        What ?
         Web scrapping is a technique employed to extract large amount of data from the websites where by the data is extracted and saved to loacl file in your computer or to a database.
         
         
