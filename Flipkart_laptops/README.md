@@ -13,3 +13,12 @@ Web Scrapping
       1.Data extraction from the web using Pythons BeautifulSoup module
       2.Data manipulation and cleaning using Pythons pandas library
       3. Data visualization using Pythons matplotlib library
+
+
+
+Problem statement
+Scrap Flipkart website and fetch details like the product , price , ratings and many other features of the searched product..
+
+Search any product name : laptops( Here we are going to scrap the data of all mobiles)
+
+Fetch prodduct , MRP , RAM, STORAGE , rating , display and feature list
