@@ -19,7 +19,7 @@ Web Scrapping
 Problem statement
 
 
-                  Scrap Flipkart website and fetch details like the product , price , ratings and many other features of the searched product..
+       Scrap Flipkart website and fetch details like the product , price , ratings and many other features of the searched product..
 
                   Search any product name : laptops( Here we are going to scrap the data of all mobiles)
                    
